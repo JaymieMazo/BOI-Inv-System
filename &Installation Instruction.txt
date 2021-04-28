@@ -1,0 +1,8 @@
+1. Open \\192.168.3.2\System Installer\BOI-IMS
+2. Check if the Operating System is 32bit or 64bit
+3. Go to Prerequisites folder and Install the applicable CRRuntime
+4. Install SAP Crystal Reports Runtime Engine for .NET Framework
+5. Go to Font Folder and install IDAutomationHC39M Code 39 Barcode
+6. Run the Set up
+7. Change the DateTimeFormat of the computer through Control Panel\Clock and Region\Change date,time or number formats. Click the additional Settings then change the format in Date Tab.
+8. Test the system using the log in credential.
